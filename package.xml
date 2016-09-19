@@ -66,4 +66,8 @@
         <members>Work%2Ecom Only User</members>
         <name>Profile</name>
     </types>
+    <types>
+        <members>Entitlement</members>
+        <name>Settings</name>
+    </types>
 </Package>
